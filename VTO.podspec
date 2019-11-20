@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
 
 
 
-  spec.homepage     = "https://174.138.122.160/ProofOfConcepts/kixr-eyewear-pod"
+  spec.homepage     = "https://github.com/sasidhar20/kiksar-cocoapod"
  
 
   spec.license      = { :type => "MIT", :file => "LICENSE" }
@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Sasidhar Gogulapati" => "sasidhar.gogulapati@kiksarvr.com" }
 
 
-  spec.source       = { :git => "https://174.138.122.160/ProofOfConcepts/kixr-eyewear-pod.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/sasidhar20/kiksar-cocoapod.git", :tag => "#{spec.version}" }
 
   spec.source_files  = "VTO/**/*.{h,m,swift}"
 
