@@ -1,1 +1,2 @@
-# kiksar-cocoapod
+# kixr-eyewear-pod
+
