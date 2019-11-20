@@ -3,7 +3,7 @@ Pod::Spec.new do |spec|
 
 
   spec.name         = "VTO"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "Kiksar Eyewear VTO Pod"
 
 
